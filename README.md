@@ -9,7 +9,7 @@
 
 # 💫 About
 🤝 I’m looking for a place to fit in<br>
-🌱 I’m currently learning Typescript, Svelte, React, Flutter, Dart, Go, Rust, Zig, Elixir and Python<br>
+🌱 I’m currently learning Typescript, Svelte, React, Flutter, Dart, Go, Rust, Elixir and Python<br>
 🧑‍💻 I like to build cool projects <br>
 
 # 🃏 Dev Card
